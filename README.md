@@ -5,7 +5,7 @@
 Repository structure
 
 - `backend/` — Python backend services and scripts (art generation, model list, event tracker).
-- `frontend/` — Frontend app (simple web UI/app entrypoint).
+- `frontend/` — Streamlit frontend app (web UI/app entrypoint).
 - `unity_world/` — Unity assets and world export (if used).
 - `assets/` — Shared assets used by the project.
 - `artifacts/` — Generated outputs and intermediate files.
@@ -43,12 +43,14 @@ python art_generator.py
 
 Frontend: run locally
 
-1. Open a new terminal, activate the virtualenv, then run the frontend app:
+1. Open a new terminal, activate the virtualenv, then run the Streamlit app:
 
 ```powershell
 cd frontend
-python app.py
+streamlit run app.py
 ```
+
+2. Open the local URL printed by Streamlit in your browser.
 
 Notes on `art_generator.py`
 
