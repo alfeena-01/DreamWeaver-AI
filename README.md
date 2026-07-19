@@ -80,6 +80,4 @@ License
 
 This repository does not include a license file. Add a `LICENSE` at the repo root if you intend to publish or share.
 
-Contact
 
-If you want me to run scripts, fix small bugs (like the import typo in `backend/art_generator.py`), or extend this README with examples, tell me and I will proceed.
