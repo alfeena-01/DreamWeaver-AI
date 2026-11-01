@@ -76,7 +76,7 @@ streamlit run app.py
 1. Open an issue describing the change or bug.
 2. Create a branch, make changes, and submit a pull request.
 
-License
+### License
 
 This repository does not include a license file. Add a `LICENSE` at the repo root if you intend to publish or share.
 
