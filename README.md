@@ -71,7 +71,7 @@ streamlit run app.py
 - If `pip install -r requirements.txt` fails on Windows, ensure you have a supported Python version and build tools (for packages with native extensions).
 - For GPU-accelerated model runs, verify CUDA and driver versions match the installed PyTorch/CUDA wheel.
 
-Contributing
+### Contributing
 
 1. Open an issue describing the change or bug.
 2. Create a branch, make changes, and submit a pull request.
