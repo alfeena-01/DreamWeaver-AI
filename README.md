@@ -2,7 +2,7 @@
 
 > A small research/prototype project for generating and serving AI-generated art.
 
-## Repository structure
+### Repository structure
 
 - `backend/` — Python backend services and scripts (art generation, model list, event tracker).
 - `frontend/` — Streamlit frontend app (web UI/app entrypoint).
