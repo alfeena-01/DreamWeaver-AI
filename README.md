@@ -66,7 +66,7 @@ streamlit run app.py
 - Use the virtual environment to avoid dependency conflicts.
 - Keep generated outputs in `artifacts/` and add them to `.gitignore` if appropriate.
 
-Troubleshooting
+### Troubleshooting
 
 - If `pip install -r requirements.txt` fails on Windows, ensure you have a supported Python version and build tools (for packages with native extensions).
 - For GPU-accelerated model runs, verify CUDA and driver versions match the installed PyTorch/CUDA wheel.
