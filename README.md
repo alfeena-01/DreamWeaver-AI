@@ -52,7 +52,7 @@ streamlit run app.py
 
 2. Open the local URL printed by Streamlit in your browser.
 
-Notes on `art_generator.py`
+### Notes on `art_generator.py`
 
 - The script at `backend/art_generator.py` is the main art generation entrypoint. If you see a `SyntaxError` referencing a stray `dfrom` or similar, open the file and correct the import to `from ... import ...` (there's a known typo in older versions).
 - Depending on the models used (Hugging Face Diffusers, etc.), you may need additional system packages (CUDA, GPU drivers) and larger dependency installs. Review any top-of-file comments in `backend/art_generator.py` for model-specific setup.
