@@ -61,7 +61,7 @@ streamlit run app.py
 
 - Any API keys or model access tokens should be provided via environment variables or a local config file (not checked into source control). Add them before running scripts that contact external model services.
 
-Development tips
+### Development tips
 
 - Use the virtual environment to avoid dependency conflicts.
 - Keep generated outputs in `artifacts/` and add them to `.gitignore` if appropriate.
