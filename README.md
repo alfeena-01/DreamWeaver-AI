@@ -11,7 +11,6 @@
 - `artifacts/` — Generated outputs and intermediate files.
 - `requirements.txt` — Python dependencies for the project.
 
-### Quick start (Windows)
 
 1. Clone the repo and open a terminal in the project root.
 
