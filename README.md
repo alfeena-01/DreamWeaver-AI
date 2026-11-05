@@ -1,4 +1,3 @@
-# DreamWeaver-AI
 
 > A small research/prototype project for generating and serving AI-generated art.
 
